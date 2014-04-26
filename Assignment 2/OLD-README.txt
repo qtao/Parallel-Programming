@@ -2,7 +2,7 @@ Assignment #2: Measuring Parallel Performance
 Michael Stewart
 mstewa34@jhu.edu
 
-To Run: cd to source folder
+To Run:
     make all
     java ParallelSealedDES NUM_THREADS NUM_BITS [LIMITED_OUTPUT]
     ** if a third argument is present then the output is limited to the **
